@@ -33,7 +33,7 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,docker,kubernetes,aws,gcp,git" />
+  <img src="https://skillicons.dev/icons?i=js,expo,react,python,go,docker,git" />
 </div>
 
 ## 📫 Connect with me
@@ -47,9 +47,5 @@
   </a>
 </div>
 
-## 🎵 Vibing to
 
-<div align="center">
-  <img src="[https://music.yandex.ru/users/atlz2404/playlists/1000]&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
-</div>
 
