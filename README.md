@@ -33,7 +33,7 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,sql,react,python,go,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,go,docker,git,postgres,redis,kafka" />
 </div>
 
 ## 📫 Connect with me
