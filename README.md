@@ -1,8 +1,11 @@
-<div align="center">
-[![Header](https://github.com/federalbyro/federalbyro/blob/main/assets/imba.gif)](https://www.youtube.com/watch?v=f97W-nveCOM&t=1304s&ab_channel=Hotdogster)
-</div>
 
 # <div align="center">I'm Feda 🚀</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=f97W-nveCOM&t=1304s&ab_channel=Hotdogster">
+    <img src="https://github.com/federalbyro/federalbyro/blob/main/assets/imba.gif" alt="Header" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Code+Artist;Problem+Solver;Commit+Master" alt="Typing SVG" />
