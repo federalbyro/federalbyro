@@ -50,12 +50,6 @@
 ## 🎵 Vibing to
 
 <div align="center">
-  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID](https://music.yandex.ru/users/atlz2404/playlists/1000)&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
+  <img src="[https://music.yandex.ru/users/atlz2404/playlists/1000]&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
