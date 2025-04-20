@@ -36,28 +36,13 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,docker,kubernetes,aws,gcp,git" />
 </div>
 
-## 📈 Coding Language Distribution
-
-<div align="center">
-  <img src="https://github.com/federalbyro/federalbyro/blob/main/github-metrics.svg" alt="Metrics" width="700">
-</div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon...]()
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/your-linkedin(https://www.linkedin.com/in/фёдор-лобко-05b2932b9)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://t.me/your-telegram">
+  <a href="[https://t.me/your-telegram](https://t.me/bureau_dun1a)">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
@@ -65,11 +50,7 @@
 ## 🎵 Vibing to
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=federalbyro&style=for-the-badge&color=red" alt="Profile Views"/>
+  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID](https://music.yandex.ru/users/atlz2404/playlists/1000)&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
 </div>
 
 ---
