@@ -30,35 +30,6 @@
   </a>
 </div>
 
-## 🔥 Annual Contribution Summary
-
-<table>
-  <tr>
-    <td>💻 Total Commits</td>
-    <td>
-      <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Commits&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dfederalbyro%26type%3Djson" alt="Total Commits"/>
-    </td>
-  </tr>
-  <tr>
-    <td>🔀 Total Pull Requests</td>
-    <td>
-      <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Pull%20Requests&query=%24.totalPullRequests&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ffederalbyro" alt="Total PRs"/>
-    </td>
-  </tr>
-  <tr>
-    <td>🔍 Code Reviews</td>
-    <td>
-      <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Reviews&query=%24.totalCodeReviews&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ffederalbyro" alt="Code Reviews"/>
-    </td>
-  </tr>
-  <tr>
-    <td>✅ Merged PRs</td>
-    <td>
-      <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Merged%20PRs&query=%24.totalMergedPRs&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ffederalbyro" alt="Merged PRs"/>
-    </td>
-  </tr>
-</table>
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
