@@ -39,10 +39,10 @@
 ## 📫 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin(https://www.linkedin.com/in/фёдор-лобко-05b2932b9)">
+  <a href="https://www.linkedin.com/in/фёдор-лобко-05b2932b9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://t.me/your-telegram](https://t.me/bureau_dun1a)">
+  <a href="https://t.me/bureau_dun1a">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
