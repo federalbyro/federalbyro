@@ -17,17 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federalbyro&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=federalbyro&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/federalbyro">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=federalbyro&theme=radical" />
-  </a>
-</div>
 
 ## 🛠️ Technologies & Tools
 
