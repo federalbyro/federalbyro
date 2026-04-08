@@ -22,7 +22,7 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,docker,postgres,kafka,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,go,docker,postgres,kafka,sklearn" />
 </div>
 
 ## 📫 Connect with me
